@@ -22,7 +22,6 @@
 		511207F319D0C03C0027D5AC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 511207D219D0C03B0027D5AC /* UIKit.framework */; };
 		511207FB19D0C03C0027D5AC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 511207F919D0C03C0027D5AC /* InfoPlist.strings */; };
 		511207FD19D0C03C0027D5AC /* BmiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 511207FC19D0C03C0027D5AC /* BmiTests.m */; };
-		51EB8D9919D13269003F3DDC /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 51EB8D9819D13269003F3DDC /* README.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,7 +55,6 @@
 		511207F819D0C03C0027D5AC /* BmiTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BmiTests-Info.plist"; sourceTree = "<group>"; };
 		511207FA19D0C03C0027D5AC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		511207FC19D0C03C0027D5AC /* BmiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BmiTests.m; sourceTree = "<group>"; };
-		51EB8D9819D13269003F3DDC /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +117,6 @@
 				511207DD19D0C03B0027D5AC /* CiaranDAppDelegate.h */,
 				511207DE19D0C03B0027D5AC /* CiaranDAppDelegate.m */,
 				511207E019D0C03B0027D5AC /* Main_iPhone.storyboard */,
-				51EB8D9819D13269003F3DDC /* README.txt */,
 				511207E319D0C03B0027D5AC /* Main_iPad.storyboard */,
 				511207E619D0C03B0027D5AC /* CiaranDViewController.h */,
 				511207E719D0C03B0027D5AC /* CiaranDViewController.m */,
@@ -239,7 +236,6 @@
 				511207EA19D0C03B0027D5AC /* Images.xcassets in Resources */,
 				511207E219D0C03B0027D5AC /* Main_iPhone.storyboard in Resources */,
 				511207D919D0C03B0027D5AC /* InfoPlist.strings in Resources */,
-				51EB8D9919D13269003F3DDC /* README.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
