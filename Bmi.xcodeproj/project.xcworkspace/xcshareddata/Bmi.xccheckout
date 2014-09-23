@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CB6D8269-D355-4CB1-A234-95D6F15B7F5E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bmi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04BA167B-B1AE-41EB-8683-1BDB6BF51658</key>
+		<string>ssh://github.com/ciarand/cpsc411-a2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bmi/Bmi.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04BA167B-B1AE-41EB-8683-1BDB6BF51658</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ciarand/cpsc411-a2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04BA167B-B1AE-41EB-8683-1BDB6BF51658</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04BA167B-B1AE-41EB-8683-1BDB6BF51658</string>
+			<key>IDESourceControlWCCName</key>
+			<string>a2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
